@@ -1,3 +1,3 @@
 # demo-repo
 first git repository
-author-shubham jain
+author-shubham jain (sj)
